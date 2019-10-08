@@ -12,7 +12,7 @@ namespace Logging
 
         public int LogSize { get; set; } = 1024*1024;
 
-        public string LogPath { get; set; } = @"C:\TerminalClient\Logs";
+        public string LogPath { get; set; } = @"C:\Logs";
 
         public static Logger GetInstance()
         {
