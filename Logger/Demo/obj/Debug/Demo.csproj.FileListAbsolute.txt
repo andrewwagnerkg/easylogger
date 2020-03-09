@@ -1,0 +1,8 @@
+D:\gitHubRepos\easylogger\Logger\Demo\bin\Debug\Demo.exe
+D:\gitHubRepos\easylogger\Logger\Demo\bin\Debug\Demo.pdb
+D:\gitHubRepos\easylogger\Logger\Demo\bin\Debug\Logger.dll
+D:\gitHubRepos\easylogger\Logger\Demo\bin\Debug\Logger.pdb
+D:\gitHubRepos\easylogger\Logger\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\gitHubRepos\easylogger\Logger\Demo\obj\Debug\Demo.csproj.CopyComplete
+D:\gitHubRepos\easylogger\Logger\Demo\obj\Debug\Demo.exe
+D:\gitHubRepos\easylogger\Logger\Demo\obj\Debug\Demo.pdb

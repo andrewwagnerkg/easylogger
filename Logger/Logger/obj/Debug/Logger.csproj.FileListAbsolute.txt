@@ -1,0 +1,5 @@
+D:\gitHubRepos\easylogger\Logger\Logger\bin\Debug\Logger.dll
+D:\gitHubRepos\easylogger\Logger\Logger\bin\Debug\Logger.pdb
+D:\gitHubRepos\easylogger\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\gitHubRepos\easylogger\Logger\Logger\obj\Debug\Logger.dll
+D:\gitHubRepos\easylogger\Logger\Logger\obj\Debug\Logger.pdb
