@@ -1,5 +1,11 @@
-# easylogger
-Easy logger
-Класс реализующий простой логгер.
-Логи по умолчанию имеют размер 1 МБ при привышении рамера создается новый файл лога.
-Логи создаются в отдельной папке с именем текущей даты.
+Простая библиотека реализующая логирование в файл и по http протоколу на сервер. 
+
+Пример
+
+IFileLogger logger=new FileLogger();
+logger.Write<Class>("message");
+
+IHttpLogger loggerhttp=new HttpLogger();
+loggerhttp.Url="http://127.0.0.1";
+loggerhttp.Write<Class>("message");
+
